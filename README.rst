@@ -24,7 +24,9 @@ Introduction
 
 Quick start
 -----------
+run:
 
+`python phageobase.py`
 
 Installation
 ------------
